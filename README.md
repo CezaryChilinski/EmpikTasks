@@ -12,8 +12,4 @@ In this task, you'll find a Postman collection.
 
 ## secondTask
 
-This task involves a Cypress project.
-
-### Instructions:
-1. Use `npm init` to install dependencies.
-2. To start the runner and testing, use `npx cypress open`.
+This task involves a Java project with Rest-Assured framework.
